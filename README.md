@@ -3,6 +3,10 @@
 **Author:** Ananya Rajgaria  
 **Senior Honors Thesis**
 
+## Thesis
+
+[Read the full thesis here](https://docs.google.com/document/d/1ymwtbleioRYGD-MJTKkpP36eh14n0pUrk6-UGrYZ-gQ/edit?usp=sharing)
+
 ## Overview
 
 This project investigates why the same product costs different amounts across countries, and whether machine learning can predict and explain those price gaps. Using real price data scraped from international fashion retailers (Zara and Mango) across the US and India, the project applies linear regression and other ML models to understand how exchange rates, materials, and product categories drive cross-country price disparities.
@@ -12,7 +16,7 @@ This project investigates why the same product costs different amounts across co
 ```
 ppp-ml/
 ├── thesis/
-│   ├── honors_thesis.pdf           ← Full written thesis
+│   ├── honors_thesis.pdf           ← Full written thesis (see link below)
 │   └── presentation.pptx           ← Defense presentation slides
 │
 ├── notebooks/                      ← Google Colab analysis notebooks
