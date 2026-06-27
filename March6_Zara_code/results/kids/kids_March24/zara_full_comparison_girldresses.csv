@@ -1,0 +1,50 @@
+Product_ID,name,Category,colour_from_title,US_price_current_usd,US_price_original_usd,US_discount_pct_display,US_on_sale,IN_price_current_inr,IN_price_current_usd,IN_price_original_inr,IN_discount_pct_display,IN_discount_pct_calc,IN_on_sale,Savings_USD,materials_text,made_in,date,exchange_rate
+01341484,FLORAL PRINT DRESS - Ecru | ZARA United States,GENERAL,Ecru,49.9,,"
+100",True,2950.0,31.65,,"
+100",,True,18.25,100% cotton | 100% OCS certified organically grown cotton,Morocco,2026-03-24,93.22
+01187492,FLOWER APPLIQUÉ DRESS - Pastel yellow | ZARA United States,GENERAL,Pastel yellow,49.9,,"
+75",True,,,,,,,,75% polyester | 100% cotton | 75% RCS-certified recycled polyester | 100% OCS certified organically grown cotton,Morocco,2026-03-24,93.22
+09001766,EMBROIDERED TULLE DRESS - Blue / White | ZARA United States,GENERAL,Blue / White,49.9,,"
+100",True,2950.0,31.65,,"
+100",,True,18.25,100% polyester | 100% RCS-certified recycled polyester,Morocco,2026-03-24,93.22
+01343459,FLORAL PRINT ORGANZA DRESS - Ecru / Blue | ZARA United States,GENERAL,Ecru / Blue,49.9,,"
+100",True,2950.0,31.65,,"
+100",,True,18.25,100% polyester | 100% cotton | 100% OCS certified organically grown cotton | 100% RCS-certified recycled polyester,Morocco,2026-03-24,93.22
+01342297,BOW DRESS - Dusty pink | ZARA United States,GENERAL,Dusty pink,49.9,,"
+100",True,2950.0,31.65,,"
+100",,True,18.25,100% polyester | 100% cotton | 100% RCS-certified recycled polyester | 100% OCS certified organically grown cotton,Morocco,2026-03-24,93.22
+03153631,EMBROIDERED FLORAL RUFFLED DRESS - White | ZARA United States,GENERAL,White,45.9,,"
+100",True,2550.0,27.35,,"
+100",,True,18.55,100% cotton | 69% polyester | 100% OCS certified organically grown cotton,China,2026-03-24,93.22
+03153650,FRINGED DRESS - Pink | ZARA United States,GENERAL,Pink,39.9,,"
+100",True,2350.0,25.21,,"
+100",,True,14.69,100% polyester | 100% RCS-certified recycled polyester,Cambodia,2026-03-24,93.22
+08741630,RUFFLED DRESS - Ecru | ZARA United States,GENERAL,Ecru,49.9,,"
+100",True,,,,,,,,100% polyester | 100% RCS-certified recycled polyester,China,2026-03-24,93.22
+01141283,FLORAL PRINT DRESS - Blue / Green | ZARA United States,GENERAL,Blue / Green,49.9,,"
+100",True,3550.0,38.08,,"
+100",,True,11.82,100% linen | 100% cotton | 100% OCS certified organically grown cotton,Morocco,2026-03-24,93.22
+03153617,JEWELED FLORAL ROMANTIC DRESS - Ecru | ZARA United States,MAN,Ecru,55.9,,"
+100",True,,,,,,,,100% polyester | 100% cotton | 100% RCS-certified recycled polyester | 100% OCS certified organically grown cotton,China,2026-03-24,93.22
+01180396,ROMANTIC EMBROIDERED LAYERED DRESS - White | ZARA United States,MAN,White,49.9,,"
+100",True,,,,,,,,100% cotton | 100% OCS certified organically grown cotton,Morocco,2026-03-24,93.22
+01384396,BOW HALTER NECK DRESS - White | ZARA United States,GENERAL,White,45.9,,"
+100",True,2550.0,27.35,,"
+100",,True,18.55,100% cotton | 100% OCS certified organically grown cotton,Morocco,2026-03-24,93.22
+04786613,METALLIC EFFECT RUFFLED DRESS - Golden | ZARA United States,GENERAL,Golden,49.9,,"
+100",True,3550.0,38.08,,"
+100",,True,11.82,100% polyester | 100% RCS-certified recycled polyester,China,2026-03-24,93.22
+03153607,DOUBLE COMBINATION LACE DRESS - White | ZARA United States,GENERAL,White,49.9,,"
+100",True,,,,,,,,100% cotton | 100% OCS certified organically grown cotton,Cambodia,2026-03-24,93.22
+01074396,ROMANTIC EMBROIDERED LAYERED DRESS - White | ZARA United States,MAN,White,49.9,,"
+100",True,2950.0,31.65,,"
+100",,True,18.25,100% cotton | 100% OCS certified organically grown cotton,Morocco,2026-03-24,93.22
+01292077,ORGANZA FLORAL DRESS - Bluish | ZARA United States,GENERAL,Bluish,45.9,,"
+100",True,2550.0,27.35,,"
+100",,True,18.55,100% polyester | 100% cotton | 100% RCS-certified recycled polyester | 100% OCS certified organically grown cotton,Morocco,2026-03-24,93.22
+08741607,RUFFLED DRESS - Ecru | ZARA United States,GENERAL,Ecru,49.9,,"
+100",True,3550.0,38.08,,"
+100",,True,11.82,100% polyester | 100% RCS-certified recycled polyester,China,2026-03-24,93.22
+09001764,3D FLORAL ORGANZA DRESS - Pink | ZARA United States,GENERAL,Pink,49.9,,"
+100",True,2950.0,31.65,,"
+100",,True,18.25,100% polyester | 80% cotton | 17% polyester,Turkey,2026-03-24,93.22

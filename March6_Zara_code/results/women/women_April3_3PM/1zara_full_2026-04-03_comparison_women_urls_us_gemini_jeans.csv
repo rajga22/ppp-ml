@@ -1,0 +1,10 @@
+Product_ID,name,Category,colour_from_title,US_price_current_usd,US_price_original_usd,US_discount_pct_display,US_on_sale,IN_price_current_inr,IN_price_current_usd,IN_price_original_inr,IN_discount_pct_display,IN_discount_pct_calc,IN_on_sale,Savings_USD,materials_text,made_in,date,exchange_rate,time
+02395582,PINSTRIPE BLAZER - Navy blue | ZARA United States,GENERAL,Navy blue,89.9,,"
+62",True,4950.0,53.17,,"
+62",,True,36.73,62% polyester | 62% RCS-certified recycled polyester,Morocco,2026-04-03,93.1,14:54:27
+02324603,PUFF SLEEVE BLAZER - Brown | ZARA United States,GENERAL,Brown,99.9,,"
+58",True,5550.0,59.61,,"
+58",,True,40.29,58% polyester | 58% RCS-certified recycled polyester,Morocco,2026-04-03,93.1,14:54:27
+03736048,ZW COLLECTION PINSTRIPE BLAZER DRESS - Gray | ZARA United States,GENERAL,Gray,179.0,,"
+69",True,10950.0,117.62,,"
+69",,True,61.38,69% polyester | 55% polyester | 69% RCS-certified recycled polyester | 55% RCS-certified recycled polyester,China,2026-04-03,93.1,14:54:27

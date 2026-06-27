@@ -1,0 +1,21 @@
+Product_ID,name,Category,colour_from_title,US_price_current_usd,US_price_original_usd,US_discount_pct_display,US_on_sale,IN_price_current_inr,IN_price_current_usd,IN_price_original_inr,IN_discount_pct_display,IN_discount_pct_calc,IN_on_sale,Savings_USD,materials_text,made_in,date,exchange_rate,time
+01698900,SUIT JACKET - Pastel blue | ZARA United States,GENERAL,Pastel blue,69.9,,"
+62",True,,,,,,,,62% polyester | 100% polyester | 62% RCS-certified recycled polyester | 100% RCS-certified recycled polyester,China,2026-04-03,93.1,14:54:27
+01608851,COMFORT SUIT JACKET - Navy blue | ZARA United States,GENERAL,Navy blue,55.9,,"
+70",True,,,,,,,,70% polyester | 100% polyester | 70% RCS-certified recycled polyester | 100% RCS-certified recycled polyester,Turkey,2026-04-03,93.1,14:54:27
+01698870,TEXTURED BLAZER - Mid-blue | ZARA United States,GENERAL,Mid-blue,69.9,,"
+69",True,4950.0,53.17,,"
+69",,True,16.73,69% polyester | 100% polyester | 69% RCS-certified recycled polyester | 100% RCS-certified recycled polyester,China,2026-04-03,93.1,14:54:27
+07484865,SUIT BLAZER - Mid-green | ZARA United States,GENERAL,Mid-green,55.9,,"
+63",True,3950.0,42.43,,"
+63",,True,13.47,63% cotton | 33% polyester | 100% polyester | 63% OCS certified organically grown cotton | 33% RCS-certified recycled polyester | 100% RCS-certified recycled polyester,Turkey,2026-04-03,93.1,14:54:27
+04410782,COTTON AND LINEN BLEND SUIT JACKET - Ecru | ZARA United States,GENERAL,Ecru,69.9,, 75,True,4950.0,53.17,, 75,,True,16.73,Blazer with lapel collar and long sleeves. Front button closure. Front flap pockets and welt pocket at chest. Main fabric with 75% cotton and 22% linen. | 75% cotton | 25% linen | 100% polyester,Bangladesh,2026-04-03,93.1,14:54:27
+01608780,COMFORT SUIT BLAZER - Mid-ecru | ZARA United States,GENERAL,Mid-ecru,55.9,,"
+82",True,3950.0,42.43,,"
+82",,True,13.47,82% polyester | 100% polyester | 82% RCS-certified recycled polyester,Turkey,2026-04-03,93.1,14:54:27
+05854758,CLOTH HOODIE COAT - Navy blue | ZARA United States,GENERAL,Navy blue,69.9,,"
+38",True,4950.0,53.17,,"
+38",,True,16.73,38% wool | 38% polyester | 100% polyester | 38% RCS-certified recycled polyester | 38% RCS-certified recycled wool,China,2026-04-03,93.1,14:54:27
+06825088,AGES 6-10 / MANDARIN COLLAR WOOL BLEND COAT LIMITED EDITION - Mink | ZARA United States,MAN,Mink,119.0,, 23,True,,,,,,,,Mandarin collar coat with long sleeves. Front button closure. Patch pockets at front. Interior lining combined to match and with a striped print on the sleeves. 23% wool fabric. | 33% polyester | 23% wool | 5% silk (tussah) | 100% cotton | 34% polyester | 23% RCS-certified recycled wool | 33% RCS-certified recycled polyester | 34% RCS-certified recycled polyester | 100% OCS certified organically grown cotton,Morocco,2026-04-03,93.1,14:54:27
+01473770,WINDPROOF AND WATER RESISTANT RECCO® SYSTEM SKI COLLECTION JUMPSUIT - Light gray | ZARA United States,GENERAL,Light gray,199.0,,"
+88",True,,,,,,,,100% polyester | 80% polyester | 80% RCS-certified recycled polyester | 100% RCS-certified recycled polyester,China,2026-04-03,93.1,14:54:27

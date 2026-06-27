@@ -1,0 +1,4 @@
+Product_ID,name,Category,colour_from_title,US_price_current_usd,US_price_original_usd,US_discount_pct_display,US_on_sale,IN_price_current_inr,IN_price_current_usd,IN_price_original_inr,IN_discount_pct_display,IN_discount_pct_calc,IN_on_sale,Savings_USD,materials_text,made_in,date,exchange_rate
+20110242,RED ZARA TEMPTATION EDP 80ML (2.71 FL. OZ) | ZARA United States,GENERAL,,15.9,69.9,,True,1050.0,11.22,950.0,,,False,4.68,,,2026-03-22,93.62
+20110829,RED ZARA TEMPTATION ELIXIR PARFUM 80ML (2.7 FL. OZ). | ZARA United States,GENERAL,,49.9,62.38,,True,2550.0,27.24,3187.5,,20.00,True,22.66,,Spain,2026-03-22,93.62
+20110359,RED ZARA TEMPTATION SUMMER EDP 80ML (2.71 FL. OZ). | ZARA United States,GENERAL,,39.9,49.88,,True,2050.0,21.9,2562.5,,20.00,True,18.0,,,2026-03-22,93.62

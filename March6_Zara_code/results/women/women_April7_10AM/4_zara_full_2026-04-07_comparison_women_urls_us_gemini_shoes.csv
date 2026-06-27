@@ -1,0 +1,19 @@
+Product_ID,name,Category,colour_from_title,US_price_current_usd,US_price_original_usd,US_discount_pct_display,US_on_sale,IN_price_current_inr,IN_price_current_usd,IN_price_original_inr,IN_discount_pct_display,IN_discount_pct_calc,IN_on_sale,Savings_USD,materials_text,made_in,date,exchange_rate,time
+15500710,PLATFORM SANDALS - Black | ZARA United States,GENERAL,Black,49.9,,"
+100",True,3550.0,38.17,5950.0,,40.34,True,11.73,,India,2026-04-07,93.01,10:04:54
+13322710,PATENT FINISH WEDGE SANDALS - Pink | ZARA United States,GENERAL,Pink,75.9,,"
+100",True,,,,,,,,,China,2026-04-07,93.01,10:04:54
+13601710,PRINTED FLAT BUCKLE SANDALS - Multi-color | ZARA United States,GENERAL,Multi-color,55.9,,"
+86",True,2950.0,31.72,,"
+86",,True,24.18,86% cotton | 86% RCS-certified recycled cotton,China,2026-04-07,93.01,10:04:54
+11551710,POINTED TOE SLINGBACK BALLET FLATS - Black | ZARA United States,GENERAL,Black,59.9,,"
+100",True,,,,,,,,100% polyester | 85% polyester | 100% RCS-certified recycled polyester | 85% RCS-certified recycled polyester,China,2026-04-07,93.01,10:04:54
+12224710,PERFORATED SLINGBACK HEELS - Off White | ZARA United States,GENERAL,Off White,79.9,,"
+100",True,4950.0,53.22,,"
+100",,True,26.68,100% polyester | 12% polyester,,2026-04-07,93.01,10:04:54
+15510710,PLATFORM SANDALS - Khaki Green | ZARA United States,GENERAL,Khaki Green,49.9,,"
+86",True,3550.0,38.17,5950.0,,40.34,True,11.73,,China,2026-04-07,93.01,10:04:54
+12536710,POINTED SPLIT SUEDE SHOES - Sandy Brown | ZARA United States,GENERAL,Sandy Brown,75.9,,"
+100",True,,,,,,,,100% polyester | 15% polyester,China,2026-04-07,93.01,10:04:54
+15810710,PLATFORM SHOES WITH LUG SOLE - White | ZARA United States,GENERAL,White,59.9,,"
+100",True,,,,,,,,82% polyester,Bangladesh,2026-04-07,93.01,10:04:54

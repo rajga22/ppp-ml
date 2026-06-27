@@ -1,0 +1,15 @@
+Product_ID,name,Category,colour_from_title,US_price_current_usd,US_price_original_usd,US_discount_pct_display,US_on_sale,IN_price_current_inr,IN_price_current_usd,IN_price_original_inr,IN_discount_pct_display,IN_discount_pct_calc,IN_on_sale,Savings_USD,materials_text,made_in,date,exchange_rate,time
+16275610,PEARLESCENT EFFECT HANDBAG - white | ZARA United States,GENERAL,white,79.9,,"
+100",True,4950.0,53.17,,"
+100",,True,26.73,100% polyester,India,2026-04-04,93.1,15:02:07
+16011510,PINCH PLEAT TOTE BAG - Dark tan | ZARA United States,GENERAL,Dark tan,45.54,75.9,-40,True,2550.0,27.39,4350.0,-41,41.38,True,18.15,100% polyester,China,2026-04-04,93.1,15:02:07
+16180710,CUT-OUT EFFECT MINI SHOPPER - Blue | ZARA United States,GENERAL,Blue,39.9,, 100,True,,,,,,,,Composition: 100% polyester,,2026-04-04,93.1,15:02:07
+16171710,PEARLESCENT EFFECT DETAIL BAG - Ecru | ZARA United States,GENERAL,Ecru,59.9,,"
+100",True,3550.0,38.13,,"
+100",,True,21.77,100% cotton,India,2026-04-04,93.1,15:02:07
+16093710,PATCHWORK MINI BUCKET BAG - Denim Blue | ZARA United States,GENERAL,Denim Blue,59.9,,"
+100",True,3550.0,38.13,,"
+100",,True,21.77,100% cotton | 100% polyester | 90% RCS-certified recycled cotton | 10% OCS certified organically grown cotton | 100% RCS-certified recycled polyester,China,2026-04-04,93.1,15:02:07
+16615610,PATCHWORK RIGID HANDLE MINI BUCKET BAG - Multi-color | ZARA United States,GENERAL,Multi-color,59.9,,"
+100",True,3550.0,38.13,,"
+100",,True,21.77,100% polyester | 100% RCS-certified recycled polyester,China,2026-04-04,93.1,15:02:07
