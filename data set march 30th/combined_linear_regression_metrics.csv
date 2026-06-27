@@ -1,2 +1,0 @@
-dataset,target,rows_used,MAE,RMSE,R2
-combined_men_women_kids,price_gap_pct,466,0.1501781715435205,0.2978671934202108,0.6400299946420571
